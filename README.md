@@ -60,43 +60,41 @@
 5. In Disk Management, find your new disk (marked as "Not Initialized") -> Right-click the new disk → Initialize Disk → Select **MBR**.
 6. Right-click Unallocated Space → **New Simple Volume** → Format the disk -> Click next → Finish.
 
----
-
 ## Output:
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+![Screenshot 2025-03-26 182726](https://github.com/user-attachments/assets/0c60beda-8879-419a-8ff2-f3e967ae18d3)
 
----
+
+
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
+![Screenshot 2025-03-26 182747](https://github.com/user-attachments/assets/a1639df2-2caa-47c8-aeef-08ed152359c8)
 
-![](./images/kali1.png)
 
----
 
 ### **Autopsy**
 
-![](./images/autopsy.png)
+![Screenshot 2025-03-26 182802](https://github.com/user-attachments/assets/ca82cd34-39a4-49bc-9d70-365df7b4728d)
 
----
+
 
 ### **Sleuth Kit**
 
-![](./images/s1.png)
+![Screenshot 2025-03-26 183605](https://github.com/user-attachments/assets/432f8840-b7f4-4793-9110-d41d5a4d3a8b)
 
-![](./images/s2.png)
 
----
+![Screenshot 2025-03-26 183000](https://github.com/user-attachments/assets/62fcd173-c9a9-4205-b59a-9dc4d8170c70)
+
 
 ### **Creation of Virtual Hard Disk**
 
-![](./images/disk.png)
 
----
+
+![Screenshot 2025-03-26 183838](https://github.com/user-attachments/assets/c33433ab-7439-4fe6-84fb-72348df05471)
+
 
 ## Result :
 The installation of VirtualBox, Autopsy, and Sleuth Kit, along with the setup of Kali Linux - Virtual Machine and the creation of a new virtual disk, has been successfully completed.
