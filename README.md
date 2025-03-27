@@ -2,8 +2,8 @@
 
 
 
- Name:P.Sasinthar
- Reg.No:212223230199
+# Name:SENTHIL KUMARAN C
+# Reg.No:212223220103
 
 ## Aim :
    To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
